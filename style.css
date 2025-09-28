@@ -1,0 +1,29 @@
+body {
+font-family: Arial;
+  background: #C5F1D5;
+  color: Black;
+  text-align: left; }
+
+h1 {
+  color: #0E3A1E;
+  text-align: center; }
+
+h2 {color: #0E3A1E;
+  text-align: center;}
+
+
+.image-row {
+    display: flex;
+  gap: 100px; }
+
+  .image-row img {
+    width: 400px; }
+
+   
+.center-image{ 
+display: flex;
+justify-content: center; 
+}
+
+.center-image img{
+    width: 300;  }
